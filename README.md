@@ -11,7 +11,6 @@ Lets build a better future together !
 - 🌱 I’m currently working on data science, machine learning and deep learning and learning to deploy on edge devices through iot and tiny ml
 - 💞️ I’m looking to collaborate on research and job opportunities in the area of Artificial Intelligence. 
 - 📫 How to reach me-
-- 
 ### LinkedIn- www.linkedin.com/in/souvik-ghosh-3b8b411b2
 
 ### mail me @- souvikg544@gmail.com
@@ -22,5 +21,5 @@ Lets build a better future together !
 
 ### Kaggle - https://www.kaggle.com/souvikg544
 
-So if you are still here and would want to discuss anything outside tech, reach me out !
+### So if you are still here and would want to discuss anything outside tech, reach me out !
 Lets grab a coffee, discuss kung fu 😉 and write stories 😊.
