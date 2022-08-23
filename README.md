@@ -7,7 +7,7 @@ Lets build a better future together !
 ## A brief intro about me
 
 - 👋 Hi, I’m Souvik Ghosh
-- 👀 I’m interested in working on real world problems and finding solutions thrrough machine learning and showing it to thee world through apps and websites
+- 👀 I’m interested in working on real world problems and finding solutions through machine learning and showing it to the world through apps and websites
 - 🌱 I’m currently working on data science, machine learning and deep learning and learning to deploy on edge devices through iot and tiny ml
 - 💞️ I’m looking to collaborate on research and job opportunities in the area of Artificial Intelligence. 
 - 📫 How to reach me-
