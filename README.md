@@ -26,7 +26,7 @@ Come and collaborate with me ! Lets build a better future together !
 #### Kaggle                          - https://www.kaggle.com/souvikg5444
 
 
-### And like every data enthusiast,I follow a craze for plots 😉, So here is mine
+### And like every data enthusiast,I have a craze for plots 😉, So here is mine
 [![Souvik's github activity graph](https://activity-graph.herokuapp.com/graph?username=souvikg544&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Some stats
