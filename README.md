@@ -26,10 +26,14 @@ Come and collaborate with me ! Lets build a better future together !
 #### Kaggle                          - https://www.kaggle.com/souvikg5444
 
 
-### And like every data enthusiast,I have a craze for plots 😉, So here is mine
+## Some stats
+```
+souvik_df.describe()
+
+```
 [![Souvik's github activity graph](https://activity-graph.herokuapp.com/graph?username=souvikg544&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### Some stats
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=souvikg544&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souvikg544&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
