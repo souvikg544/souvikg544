@@ -23,7 +23,7 @@ Come and collaborate with me ! Lets build a better future together !
 
 #### Google Scholar                  - https://scholar.google.com/citations?hl=en&user=-bSVllkAAAAJ
 
-#### Kaggle                          - https://www.kaggle.com/souvikg5444
+#### Kaggle                          - https://www.kaggle.com/souvikg544
 
 
 ## Some stats
