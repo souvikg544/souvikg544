@@ -31,6 +31,8 @@ Come and collaborate with me ! Lets build a better future together !
 souvik_df.describe()
 
 ```
+
+![](https://komarev.com/ghpvc/?username=souvikg544&label=PROFILE+VIEWS)
 [![Souvik's github activity graph](https://activity-graph.herokuapp.com/graph?username=souvikg544&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
