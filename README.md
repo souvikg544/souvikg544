@@ -28,8 +28,8 @@ Come and collaborate with me ! Lets build a better future together !
 
 ## Some stats
 ```
+# Lets understand the distribution of dataframe Souvik 😉
 souvik_df.describe()
-
 ```
 
 ![](https://komarev.com/ghpvc/?username=souvikg544&label=PROFILE+VIEWS)
