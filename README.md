@@ -35,7 +35,7 @@ souvik_df.describe()
 ![](https://komarev.com/ghpvc/?username=souvikg544&label=PROFILE+VIEWS)
 [![Souvik's github activity graph](https://activity-graph.herokuapp.com/graph?username=souvikg544&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+![Souvik's Github stats](https://github-readme-stats.vercel.app/api?username=souvikg544&show_icons=true&theme=radical)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=souvikg544&theme=dark&background=000000)](https://git.io/streak-stats)
 
 Lastly if you would want to discuss anything outside tech ! 
