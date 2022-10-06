@@ -36,12 +36,11 @@ souvik_df.describe()
 [![Souvik's github activity graph](https://activity-graph.herokuapp.com/graph?username=souvikg544&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a href="https://git.io/streak-stats">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=souvikg544&theme=dark&background=000000" />
+  <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=souvikg544&theme=dark&background=000000" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=souvikg544&show_icons=true&theme=radical" />
 </a>
-
 
 Lastly if you would want to discuss anything outside tech ! 
 Lets grab a coffee, discuss kung fu 😉 and write stories 😊.
