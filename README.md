@@ -33,7 +33,7 @@ souvik_df.describe()
 ```
 
 ![](https://komarev.com/ghpvc/?username=souvikg544&label=PROFILE+VIEWS)
-[![Souvik's github activity graph](https://activity-graph.herokuapp.com/graph?username=souvikg544&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=souvikg544)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a href="https://git.io/streak-stats">
   <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=souvikg544&theme=dark&background=000000" />
