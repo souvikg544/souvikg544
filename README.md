@@ -10,7 +10,7 @@ Do let me know if you have any project on mind where I can add value..
 Come and collaborate with me ! Lets build a better future together !
 
 ## Work Experience (Internships) -
-- Machine Learning Engineer(present) -- Racloop Technologies           
+- Machine Learning Engineer(present) -- WhilterAI           
 - Artificial Intelligence Researcher -- Formulate AI
 - Python Developer                   -- SCIS , University of Hyderabad  
 
