@@ -9,13 +9,19 @@ to bring change in our day to day activities through the wonders of AI. From hea
 Do let me know if you have any project on mind where I can add value..
 Come and collaborate with me ! Lets build a better future together !
 
-## Work Experience (Internships) -
-- Machine Learning Engineer(present) -- WhilterAI           
+## Freelance 
+- Top Rated Freelancer on Upwork
+- Top 10% Data Scientist Freelancer Worldwide
+
+## Work Experience  -
+- Data Scientist -- WhilterAI           
 - Artificial Intelligence Researcher -- Formulate AI
 - Python Developer                   -- SCIS , University of Hyderabad  
 
 ## Reach me @-
 #### LinkedIn                        - www.linkedin.com/in/souvik-ghosh-3b8b411b2
+
+#### Upwork                          - https://www.upwork.com/freelancers/~01da4cfe361b4534c2
 
 #### Email                           - souvikg544@gmail.com
 
@@ -32,13 +38,8 @@ Come and collaborate with me ! Lets build a better future together !
 souvik_df.describe()
 ```
 
-![](https://komarev.com/ghpvc/?username=souvikg544&label=PROFILE+VIEWS)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=souvikg544&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Souvik's Activity](https://github-readme-activity-graph.vercel.app/graph?username=souvikg544&theme=dracula)
 
 <a href="https://git.io/streak-stats">
   <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=souvikg544&theme=dark&background=000000" />
 </a>
-
-
-Lastly if you would want to discuss anything outside tech ! 
-Lets grab a coffee, discuss kung fu 😉 and write stories 😊.
