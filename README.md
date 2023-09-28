@@ -12,11 +12,13 @@ Come and collaborate with me ! Lets build a better future together !
 ## Freelance 
 - Top Rated Freelancer on Upwork
 - Top 10% Data Scientist Freelancer Worldwide
+- Served more than 15 mid sized companies and startups and several other one stand projects till now.
 
 ## Work Experience  -
+- Research Fellow at CVIT(Ongoing)
 - Freelance Data Scientist -- BrainBox Innovations(Ongoing)
 - Freelance AI Engineer(LLM) -- Thomas Crown Inc
-- Freelance AI Engineer at Lumos Learning (2 months)
+- Freelance AI Engineer at Lumos Learning 
 - Data Scientist -- WhilterAI           
 - Artificial Intelligence Researcher -- Formulate AI
 - Python Developer                   -- SCIS , University of Hyderabad  
