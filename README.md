@@ -14,6 +14,9 @@ Come and collaborate with me ! Lets build a better future together !
 - Top 10% Data Scientist Freelancer Worldwide
 
 ## Work Experience  -
+- Freelance Data Scientist -- BrainBox Innovations(Ongoing)
+- Freelance AI Engineer(LLM) -- Thomas Crown Inc
+- Freelance AI Engineer at Lumos Learning (2 months)
 - Data Scientist -- WhilterAI           
 - Artificial Intelligence Researcher -- Formulate AI
 - Python Developer                   -- SCIS , University of Hyderabad  
