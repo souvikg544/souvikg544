@@ -1,29 +1,22 @@
-# Welcome
-View my projects, implement them and and modify them as per your need. And most importantly connect
-with me with any idea on Artificial Intelligence and Iot. 
-## A brief intro about me
+## Who am I ? 
 
-Hi ! This is Souvik Ghosh . I have always been interested to find solutions to real world problems. Having a deep passion for Artificial intelligence I have been trying
-to bring change in our day to day activities through the wonders of AI. From healthcare problems to social issues prevalent in India and many countries of the world, I believe technology can be a true pioneer in our journey.
+![Untitled design](https://github.com/souvikg544/souvikg544/assets/63863911/4bce7ebe-9913-47bd-bd38-878810ca8b95)
 
-Do let me know if you have any project on mind where I can add value..
-Come and collaborate with me ! Lets build a better future together !
+My work has been aligned on the intersection of Sustainable Development and AI. With an experience from both the domains of Research and Industry, I try to blend the best of both the World's in order to create an impactful product that can change lives. I have been a part of product teams of various startups and midsized companies. But my love lies in core foundamental research where I solve problems from the ground. My current research revolves around the audio visual paradigm closely working with the brightest minds in this domain ! 
 
-## Freelance 
-- Top Rated Freelancer on Upwork
-- Top 10% Data Scientist Freelancer Worldwide
-- Served more than 15 mid sized companies and startups and several other one stand projects till now.
-
+## Research Experience -
+- Research Fellow at CVIT, IIIT Hyderabad (Ongoing) - Researcher in the Audio Visual Team under Prof CV Jawahar.Closely working on a variety of problems statements centred around Lip to Speech and Generative Models.
 ## Work Experience  -
-- Research Fellow at CVIT(Ongoing)
-- Freelance Data Scientist -- BrainBox Innovations(Ongoing)
-- Freelance AI Engineer(LLM) -- Thomas Crown Inc
-- Freelance AI Engineer at Lumos Learning 
-- Data Scientist -- WhilterAI           
-- Artificial Intelligence Researcher -- Formulate AI
-- Python Developer                   -- SCIS , University of Hyderabad  
+- Freelance Data Scientist -- BrainBox Innovations(Ongoing) - 6 months
+- Freelance ML Engineer -- JDBots - 2 months
+- Freelance AI Engineer(LLM) -- Thomas Crown Inc - 4 months
+- Freelance AI Engineer(OCR) -- Lumos Learning -- 4 months
+- Freelance Data Scientist(Financial LLM) -- 3 months
+- Data Scientist -- WhilterAI -- 1 year           
+- AI Researcher -- Formulate AI -- 6 months
+- Python Developer -- SCIS , University of Hyderabad  -- 6 months
 
-## Reach me @-
+## Reach me @ -
 #### LinkedIn                        - www.linkedin.com/in/souvik-ghosh-3b8b411b2
 
 #### Upwork                          - https://www.upwork.com/freelancers/~01da4cfe361b4534c2
@@ -37,14 +30,9 @@ Come and collaborate with me ! Lets build a better future together !
 #### Kaggle                          - https://www.kaggle.com/souvikg544
 
 
-## Some stats
 ```
 # Lets understand the distribution of dataframe Souvik 😉
 souvik_df.describe()
 ```
 
 ![Souvik's Activity](https://github-readme-activity-graph.vercel.app/graph?username=souvikg544&theme=dracula)
-
-<a href="https://git.io/streak-stats">
-  <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=souvikg544&theme=dark&background=000000" />
-</a>
