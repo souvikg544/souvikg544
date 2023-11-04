@@ -8,7 +8,6 @@ My work has been aligned on the intersection of Sustainable Development and AI. 
 - Research Fellow at CVIT, IIIT Hyderabad (Ongoing) - Researcher in the Audio Visual Team under Prof CV Jawahar.Closely working on a variety of problems statements centred around Lip to Speech and Generative Models.
 ## Work Experience  -
 - Freelance Data Scientist -- BrainBox Innovations(Ongoing) - 6 months
-- Freelance ML Engineer -- JDBots - 2 months
 - Freelance AI Engineer(LLM) -- Thomas Crown Inc - 4 months
 - Freelance AI Engineer(OCR) -- Lumos Learning -- 4 months
 - Freelance Data Scientist(Financial LLM) -- 3 months
