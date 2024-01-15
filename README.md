@@ -2,11 +2,10 @@
 
 ![Untitled design](https://github.com/souvikg544/souvikg544/assets/63863911/4bce7ebe-9913-47bd-bd38-878810ca8b95)
 
-My work has been aligned on the intersection of Sustainable Development and AI. With an experience from both the domains of Research and Industry, I try to blend the best of both the World's in order to create an impactful product that can change lives. I have been a part of product teams of various startups and midsized companies. But my love lies in core foundamental research where I solve problems from the ground. My current research revolves around the audio visual paradigm closely working with the brightest minds in this domain ! 
+My work has been aligned on the intersection of Sustainable Development and AI. With an experience from both the domains of Research and Industry, I try to blend the best of both the Worlds in order to create an impactful product that can change lives. I have been a part of product teams of various startups and midsized companies. My passion lies in core foundamental research where I solve problems from the ground. My current research revolves around the audio visual paradigm closely working with the brightest minds in this domain ! 
 
 ## Research Experience -
 - Research Fellow at CVIT, IIIT Hyderabad (Ongoing) - Researcher in the Audio Visual Team under Prof CV Jawahar and Vinay Namboodiri.Closely working on a variety of problems statements centred around Lip to Speech and Generative Models.
-- 
 ## Work Experience  -
 - AI Research (Audio-Visual)           -- Sync Labs - Ongoing
 - Freelance Data Scientist (LLM)       -- BrainBox Innovations - 6 months
