@@ -5,7 +5,7 @@ My work has been aligned on the intersection of Sustainable Development and AI. 
 ## Research Experience -
 - Research Fellow at CVIT, IIIT Hyderabad (Ongoing) - Researcher in the Audio Visual Team under Prof CV Jawahar and Vinay Namboodiri.Closely working on a variety of problems statements centred around Lip to Speech and Generative Models.
 ## Work Experience  -
-- AI Research (Audio-Visual)           -- Sync Labs - Ongoing
+- Research Engineer(Audio-Visual)      -- Sync Labs - (Dec 2023 - present)
 - Freelance Data Scientist (LLM)       -- BrainBox Innovations - 6 months
 - Freekance ML Enginner (Classical ML) -- SIG Systems - 2 months
 - Freelance AI Engineer (LLM)          -- Thomas Crown Inc - 4 months
@@ -14,9 +14,8 @@ My work has been aligned on the intersection of Sustainable Development and AI. 
 - AI Researcher (Classical ML)         -- Formulate AI -- 6 months
 
 ## Reach me @ -
-#### LinkedIn                        - www.linkedin.com/in/souvik-ghosh-3b8b411b2
 
-#### Upwork                          - https://www.upwork.com/freelancers/~01da4cfe361b4534c2
+#### LinkedIn                        - https://www.linkedin.com/in/souvikg544/
 
 #### Email                           - souvikg544@gmail.com
 
@@ -28,8 +27,7 @@ My work has been aligned on the intersection of Sustainable Development and AI. 
 
 
 ```
-# Lets understand the distribution of dataframe Souvik 😉
-souvik_df.describe()
+plot_activity(souvik_df) 😉 
 ```
 
 ![Souvik's Activity](https://github-readme-activity-graph.vercel.app/graph?username=souvikg544&theme=dracula)
