@@ -5,13 +5,13 @@ My work has been aligned on the intersection of Sustainable Development and AI. 
 ## Research Experience -
 - Research Fellow at CVIT, IIIT Hyderabad (Ongoing) - Researcher in the Audio Visual Team under Prof CV Jawahar and Vinay Namboodiri.Closely working on a variety of problems statements centred around Lip to Speech and Generative Models.
 ## Work Experience  -
-- Research Engineer(Audio-Visual)      -- Sync Labs - (Dec 2023 - present)
-- Freelance Data Scientist (LLM)       -- BrainBox Innovations - 6 months
-- Freekance ML Enginner (Classical ML) -- SIG Systems - 2 months
-- Freelance AI Engineer (LLM)          -- Thomas Crown Inc - 4 months
-- Freelance AI Engineer (OCR)          -- Lumos Learning -- 4 months
-- Data Scientist (Audio-Visual)        -- WhilterAI -- 1 year           
-- AI Researcher (Classical ML)         -- Formulate AI -- 6 months
+- Research Engineer(Audio-Visual)      -- [Sync Labs](https://synclabs.so/) - (Dec 2023 - present)
+- Freelance Data Scientist (LLM)       -- [BrainBox Innovations](https://brainboxinnovations.com/) - 6 months
+- Freekance ML Enginner (Classical ML) -- [Moniteye](https://www.moniteye.co.uk/) | [SIG Systems](https://sigsystems.com/) - 8 months
+- Freelance AI Engineer (LLM)          -- [Thomas Crown Inc](https://opencorporates.com/companies/us_ca/1429802) - 4 months
+- Freelance AI Engineer (OCR)          -- [Lumos Learning](https://www.lumoslearning.com/llwp/) -- 4 months
+- Data Scientist (Audio-Visual)        -- [WhilterAI](https://www.whilter.ai/) -- 1 year           
+- AI Researcher (Classical ML)         -- [Formulate AI](https://www.formulateai.in/) -- 6 months
 
 ## Reach me @ -
 
